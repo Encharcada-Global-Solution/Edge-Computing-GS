@@ -1,5 +1,3 @@
----
-
 #  Projeto: Monitoramento de Nível de Água com Arduino
 
 ##  Descrição do Problema
