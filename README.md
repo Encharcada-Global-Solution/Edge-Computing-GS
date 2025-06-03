@@ -1,18 +1,18 @@
 ---
 
-# 💧 Projeto: Monitoramento de Nível de Água com Arduino
+#  Projeto: Monitoramento de Nível de Água com Arduino
 
-## 🧠 Descrição do Problema
+##  Descrição do Problema
 
 Em áreas urbanas e rurais, o monitoramento do nível de água é essencial para evitar enchentes, detectar transbordamentos em reservatórios ou simplesmente acompanhar o consumo. Em situações críticas, é necessário um sistema simples, barato e eficiente que alerte sobre níveis elevados de água de forma visual e sonora.
 
-## 🎯 Visão Geral da Solução
+##  Visão Geral da Solução
 
 Este projeto simula o monitoramento do nível de água usando um **potenciômetro** (representando o sensor de nível), um **display LCD** para exibir a porcentagem do reservatório, um **buzzer** para alertas sonoros, e **3 LEDs** para indicação visual (verde, amarelo e vermelho).
 
 ---
 
-## ⚙️ Componentes Utilizados
+##  Componentes Utilizados
 
 | Componente           | Quantidade |
 | -------------------- | ---------- |
@@ -26,7 +26,7 @@ Este projeto simula o monitoramento do nível de água usando um **potenciômetr
 
 ---
 
-## 🛠️ Como Funciona
+##  Como Funciona
 
 * O **potenciômetro** simula o sensor de nível d'água.
 * O valor é convertido em uma **porcentagem de 0% a 100%**.
@@ -43,13 +43,13 @@ Este projeto simula o monitoramento do nível de água usando um **potenciômetr
 
 ---
 
-## 📸 Ilustração do Projeto
+##  Ilustração do Projeto
 
 ![image](https://github.com/user-attachments/assets/53350c78-3f2d-40b8-a87f-ee0dd6028950)
 
 ---
 
-## 🚀 Instruções para Executar
+##  Instruções para Executar
 
 1. Carregue o código no Arduino.
 2. Gire o potenciômetro para simular a subida do nível da água.
@@ -57,7 +57,7 @@ Este projeto simula o monitoramento do nível de água usando um **potenciômetr
 
 ---
 
-## 🧪 Aplicações Futuras
+##  Aplicações Futuras
 
 * Substituir o potenciômetro por sensor de nível real (ultrassônico ou de boia).
 * Conectar com rede IoT para envio de alertas via internet.
