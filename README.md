@@ -1,5 +1,3 @@
-Claro, Thiago! Aqui está um **README detalhado** para o projeto do monitoramento de nível de água com potenciômetro, display LCD, buzzer e LEDs, já formatado para GitHub:
-
 ---
 
 # 💧 Projeto: Monitoramento de Nível de Água com Arduino
@@ -25,8 +23,6 @@ Este projeto simula o monitoramento do nível de água usando um **potenciômetr
 | LED Verde            | 1          |
 | LED Amarelo          | 1          |
 | LED Vermelho         | 1          |
-| Resistores (220Ω)    | 3          |
-| Protoboard + Jumpers | 1          |
 
 ---
 
@@ -47,44 +43,17 @@ Este projeto simula o monitoramento do nível de água usando um **potenciômetr
 
 ---
 
-## 🔌 Esquema de Ligações
-
-```
-LCD:
-RS - 12
-EN - 11
-D4 - 4
-D5 - 5
-D6 - 6
-D7 - 7
-
-Potenciômetro:
-VCC - 5V
-GND - GND
-Sinal - A0
-
-Buzzer:
-Sinal - Pino 8
-
-LED Verde:     Pino 9 (com resistor 220Ω)
-LED Amarelo:   Pino 10 (com resistor 220Ω)
-LED Vermelho:  Pino 13 (com resistor 220Ω)
-```
-
----
-
 ## 📸 Ilustração do Projeto
 
-> *(Adicione aqui uma imagem do circuito montado ou print do simulador do Tinkercad.)*
+![image](https://github.com/user-attachments/assets/53350c78-3f2d-40b8-a87f-ee0dd6028950)
 
 ---
 
 ## 🚀 Instruções para Executar
 
-1. Monte o circuito conforme o esquema.
-2. Carregue o código no Arduino.
-3. Gire o potenciômetro para simular a subida do nível da água.
-4. Observe as mudanças no LCD, LEDs e buzzer.
+1. Carregue o código no Arduino.
+2. Gire o potenciômetro para simular a subida do nível da água.
+3. Observe as mudanças no LCD, LEDs e buzzer.
 
 ---
 
@@ -93,7 +62,3 @@ LED Vermelho:  Pino 13 (com resistor 220Ω)
 * Substituir o potenciômetro por sensor de nível real (ultrassônico ou de boia).
 * Conectar com rede IoT para envio de alertas via internet.
 * Alimentação com bateria e energia solar para áreas externas.
-
----
-
-Se quiser, posso montar também o `README.md` direto pra você colar no GitHub com imagens e tudo. Quer que eu gere o arquivo?
