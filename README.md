@@ -62,3 +62,9 @@ Este projeto simula o monitoramento do nível de água usando um **potenciômetr
 * Substituir o potenciômetro por sensor de nível real (ultrassônico ou de boia).
 * Conectar com rede IoT para envio de alertas via internet.
 * Alimentação com bateria e energia solar para áreas externas.
+
+# ✔ Link do Projeto
+
+* https://wokwi.com/projects/432747014663476225
+
+
