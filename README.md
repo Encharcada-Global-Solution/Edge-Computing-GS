@@ -64,5 +64,6 @@ Este projeto simula o monitoramento do nível de água usando um **potenciômetr
 # ✔ Link do Projeto
 
 * https://wokwi.com/projects/432747014663476225
+* https://www.youtube.com/watch?v=XfiNC1JeJzk
 
 
